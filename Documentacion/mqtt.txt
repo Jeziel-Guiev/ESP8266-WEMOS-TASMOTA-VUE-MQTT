@@ -1,0 +1,4 @@
+cmnd/led/POWER1
+cmnd/led/POWER2
+
+stat/led/STATUS

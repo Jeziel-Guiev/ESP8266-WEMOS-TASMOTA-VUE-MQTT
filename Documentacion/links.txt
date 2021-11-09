@@ -1,0 +1,2 @@
+https://docs.wemos.cc/en/latest/d1/d1_mini.html
+http://ota.tasmota.com/tasmota/
